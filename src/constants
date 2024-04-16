@@ -1,0 +1,6 @@
+export const actionType = {
+  INCREASE_DECREASE_QTY: "increaseDecreaseQty",
+  REMOVE_FROM_CART: "removeFromCart",
+  ADD_TO_CART: "addToCart",
+  CLEAR_CART: "clearCart",
+};
